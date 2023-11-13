@@ -9,7 +9,6 @@ public abstract class Passenger   {
 
 
     public Car getReserved() {
-       reserved.toString();
         return reserved;
     }
     public void setReserved(Car reserved) {
